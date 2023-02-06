@@ -1,0 +1,27 @@
+{
+  "name": "netlify-functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "netlify": "netlify dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silvasss/Serverless-Base.git"
+  },
+  "author": "sSilva",
+  "license": "ISC",
+  "dependencies": {
+    "airtable-node": "^0.1.20",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^3.4.5"
+  },
+  "bugs": {
+    "url": "https://github.com/Silvasss/Serverless-Base/issues"
+  },
+  "homepage": "https://github.com/Silvasss/Serverless-Base#readme"
+}
